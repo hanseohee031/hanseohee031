@@ -1,5 +1,6 @@
+### Hi, there
 ### I'm interested in hardware accelerator design for deep learning
-
+- 🌱 I’m currently studying CODING TEST with python 
 <!--
 **hanseohee031/hanseohee031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
