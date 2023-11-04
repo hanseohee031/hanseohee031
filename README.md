@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### I'm interested in Digital system / Circuits and Deep Learning
-![header](https://capsule-render.vercel.app/api?type=cylinder) hanseohee
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+ 
+![header](https://capsule-render.vercel.app/api?type=cylinder & text= heanseohee) 
 
 
 
