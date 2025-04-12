@@ -31,7 +31,7 @@
 <div align="center">
   <br><br><b> ARIES (인공지능 연구실X 교환학생 언어교환 비공식 동아리) 제작 및 회장 (2023) </b>
   <br><br><b>Hallym International Dormitory (외국인 룸메이트 기숙사) (2023) </b>
-  <br><br><b> 영국 University of York (Culture and Computer Science Course)(2023.7.24- 2024.08.04) </b>
+  <br><br><b> 영국 University of York (Culture and Computer Science Course) (2023.7.24- 2024.08.04) </b>
 
   <br>
   <br><br><b>Volunteer Works: 성남시 한마음복지관 VMS 94시간 40분 (2024)</b>
