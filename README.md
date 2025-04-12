@@ -25,6 +25,9 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyaenugu)](https://solved.ac/profile/jyaenugu)
 
+  <br><br> ✒️ 기술 블로그 ✒️
+  <br><br> [![Naver Blog](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/jyaenugu) 
+
 
 </div>
   
