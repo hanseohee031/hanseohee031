@@ -9,9 +9,9 @@
   <br><br> <b> AI-Powered Cheminformatics Laboratory Intern (2025.03) </b>
 
   <br>
-  <br><br><b>English: TOIEC 935 (2024) (L 490/495 & R 445/495) </b>
-  <br><br><b>IELTS 7.0 (2024) (L 7.5/9.0  & R 8.5/9.0  &   W 6.0/9.0  &  S 6.0/9.0) </b>
-  <br><br><b>TOEFL ibt my best score 104 (2024) (R 30/30  &  L 30/30 &  S 20/30  &  W 24/30) </b>
+  <br><br><b>English: TOIEC 935 (L 490/495 & R 445/495) (2024)  </b>
+  <br><br><b>IELTS 7.0 (L 7.5/9.0  & R 8.5/9.0  &   W 6.0/9.0  &  S 6.0/9.0) (2024) </b>
+  <br><br><b>TOEFL ibt best 104 (R 30/30  &  L 30/30 &  S 20/30  &  W 24/30) (2024)  </b>
           
 </div>
 
