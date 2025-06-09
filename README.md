@@ -6,14 +6,14 @@
 ---
 
 ### 연구 및 인턴십 경험
-- **AI Accelerator Computing Lab**  
+- **[AI Accelerator Computing Lab](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee)**  
   학부연구생 | **2023년 1월 - 2023년 12월**/ **2025년 4월 - 현재**
 
-- **AI-Powered Cheminformatics Laboratory**  
+- **[AI-Powered Cheminformatics Laboratory](https://sites.google.com/view/hallym-apclab/home)**  
   인턴 | **2025년 03월**
 
-- **GIST AI융합학과 하계 인턴십**  
-  *Data Mining & Computational Biology Lab* | **2025 여름**
+- **[Data Mining & Computational Biology Lab](https://combio.gist.ac.kr/combio/)**  
+  GIST (광주과학기술원) 하계 인턴 | **2025 여름**
 
 ---
 
