@@ -25,3 +25,6 @@
   - TOEFL iBT MyBest: **104** 
 
 ---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyaenugu)](https://solved.ac/jyaenugu/)
+
