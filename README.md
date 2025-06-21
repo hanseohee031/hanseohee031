@@ -25,6 +25,14 @@
   - TOEFL iBT MyBest: **104** 
 
 ---
-
+- [![백준 알고리즘](https://img.shields.io/badge/백준_알고리즘-블로그-brightgreen?logo=naver)](https://blog.naver.com/jyaenugu/223679758977)  [백준 알고리즘 블로그 (Naver)](https://blog.naver.com/jyaenugu/223679758977)
+- [![딥러닝](https://img.shields.io/badge/딥러닝-블로그-blue?logo=tistory)](https://jyaenugu.tistory.com/21)  [딥러닝 블로그 (Tistory)](https://jyaenugu.tistory.com/21)
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyaenugu)](https://solved.ac/jyaenugu/)
+
+---
+
+
+
+
 
