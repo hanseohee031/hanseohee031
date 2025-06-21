@@ -13,7 +13,7 @@
   인턴 | **2025년 03월**
 
 - **[Data Mining & Computational Biology Lab](https://combio.gist.ac.kr/combio/)**  
-  GIST (광주과학기술원) 하계 인턴 | **2025 여름**
+  GIST AI융합학과 (광주과학기술원) 하계 인턴 | **2025 여름**
 
 ---
 
