@@ -11,10 +11,10 @@
 > 
 > Pharmacogenomics (how genetic variation affects individual responses to drugs)
 
-### previous
-> Digital system / Circuits and Deep Learning
-> 
-> FPGA Design
+### Previous
+> Digital Systems / Circuits and Deep Learning
+>
+> FPGA Design (Interested in digital hardware design; also passionate about mathematics)
 
 ---
 
@@ -31,17 +31,17 @@
 ---
 
 ### Academics & English Proficiency
-> **GPA:** 4.22 / 4.5
-> 
-> **English:**  
+- **GPA:** 4.22 / 4.5
+ 
+- **English:**  
   - TOEIC: **935**  
   - IELTS: **7.0** 
   - TOEFL iBT MyBest: **104** 
 
 ---
-> [![백준 알고리즘](https://img.shields.io/badge/백준_알고리즘-블로그-brightgreen?logo=naver)](https://blog.naver.com/jyaenugu/223679758977)  [백준 알고리즘 블로그 (Naver)](https://blog.naver.com/jyaenugu/223679758977)
+> [백준 알고리즘 블로그 바로가기 (Naver)](https://blog.naver.com/jyaenugu/223679758977)
 > 
-> [![딥러닝](https://img.shields.io/badge/딥러닝-블로그-blue?logo=tistory)](https://jyaenugu.tistory.com/21)  [딥러닝 블로그 (Tistory)](https://jyaenugu.tistory.com/21)
+>  [딥러닝 블로그 바로가기 (Tistory)](https://jyaenugu.tistory.com/21)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyaenugu)](https://solved.ac/jyaenugu/)
 
