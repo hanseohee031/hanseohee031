@@ -20,7 +20,7 @@
 
 ### Research & Internship Experience
 > **[AI Accelerator Computing Lab](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee)**  
-  Undergraduate Researcher | **Undergraduate Researcher | Jan 2023 – Dec 2023 / Apr 2025 – June 2025**
+  Undergraduate Researcher | Jan 2023 – Dec 2023 / Apr 2025 – June 2025**
 
 > **[AI-Powered Cheminformatics Laboratory](https://sites.google.com/view/hallym-apclab/home)**  
   Intern | **Mar 2025**
