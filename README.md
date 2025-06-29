@@ -31,7 +31,7 @@
 ---
 
 ### Academics & English Proficiency
-- **GPA:** 4.22 / 4.5
+- **GPA:** 4.25 / 4.5
  
 - **English:**  
   - TOEIC: **935**  
