@@ -31,7 +31,7 @@
 ---
 
 ### Academics & English Proficiency
-- **GPA:** 4.25 / 4.5 (2021-1 ~ 2025-1)
+- **GPA:** 4.25 / 4.5 
  
 - **English:**  
   - TOEIC: **935**  
