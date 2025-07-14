@@ -9,7 +9,7 @@
 ### Current
 > AI-based Adverse Drug Reaction Prediction
 > 
-> Pharmacogenomics (how genetic variation affects individual responses to drugs)
+> Deep Learning / Machine Learning
 
 ### Previous
 > Digital Systems / Circuits and Deep Learning
