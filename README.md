@@ -30,7 +30,7 @@
 
 ---
 
-### Academics & English Proficiency
+### GPA & English
 - **GPA:** 4.25 / 4.5 
  
 - **English:**  
