@@ -46,6 +46,12 @@
 > 생성형 AI 활용사례 수기 공모전 2위 우수상 (총장상)
 
 ---
+
+## Others
+> **SW 중심사업단 해외 IT 연수**  
+  University of York (영국)  |  Summer 2023 (7. 24 - 8. 4)
+
+---
 > [백준 알고리즘 블로그 바로가기 (Naver)](https://blog.naver.com/jyaenugu/223679758977)
 > 
 >  [딥러닝 블로그 바로가기 (Tistory)](https://jyaenugu.tistory.com/21)
