@@ -20,13 +20,13 @@
 
 ### Research & Internship Experience
 > **[AI Accelerator Computing Lab](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee)**  
-  Hallym University | Undergraduate Researcher | **Jan 2023 – Dec 2023 / Apr 2025 – June 2025**
+  Hallym University | **Jan 2023 – Dec 2023 / Apr 2025 – June 2025**
 
 > **[AI-Powered Cheminformatics Laboratory](https://sites.google.com/view/hallym-apclab/home)**  
-  Hallym University | Intern | **Mar 2025**
+  Hallym University | **Mar 2025**
 
 > **[Data Mining & Computational Biology Lab](https://combio.gist.ac.kr/combio/)**  
-  GIST | Intern | **Summer 2025**
+  GIST (Gwangju Institute of Science and Technology) | **Summer 2025**
 
 ---
 
