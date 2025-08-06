@@ -6,16 +6,9 @@
 ---
 
 ### Research Interests
-### Current
 > AI-based Adverse Drug Reaction Prediction
 > 
 > Deep Learning / Machine Learning
-
-### Previous
-> Digital Systems / Circuits and Deep Learning
->
-> FPGA Design (Interested in digital hardware design; also passionate about mathematics)
-
 ---
 
 ### Research & Internship Experience
