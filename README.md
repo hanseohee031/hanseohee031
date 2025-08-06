@@ -11,7 +11,7 @@
 > Deep Learning / Machine Learning
 ---
 
-### Research & Internship Experience
+### Research Experience
 > **[AI Accelerator Computing Lab](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee)**  
   Hallym University | **Jan 2023 – Dec 2023 / Apr 2025 – June 2025**
 
