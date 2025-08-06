@@ -45,8 +45,6 @@
   University of York (영국)  |  Summer 2023 (7. 24 - 8. 4)
 
 ---
-> [백준 알고리즘 블로그 바로가기 (Naver)](https://blog.naver.com/jyaenugu/223679758977)
-> 
 >  [딥러닝 블로그 바로가기 (Tistory)](https://jyaenugu.tistory.com/21)
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyaenugu)](https://solved.ac/jyaenugu/)
