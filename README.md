@@ -57,11 +57,6 @@
 ### Contact
 > Instagram: [@jyaenugu](https://instagram.com/jyaenugu)  
 > Email: [jyaenugu@naver.com](mailto:jyaenugu@naver.com)
-
-
-
-
-
-
-
-
+> Blog (Naver): [blog.naver.com/jyaenugu](https://blog.naver.com/jyaenugu)  
+> Blog (Tistory): [jyaenugu.tistory.com](https://jyaenugu.tistory.com/)  
+> YouTube: [@jyaenugu](https://www.youtube.com/@jyaenugu)
