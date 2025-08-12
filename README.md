@@ -21,7 +21,7 @@
   Hallym University | **Mar 2025**
 
 > **[Data Mining & Computational Biology Lab](https://combio.gist.ac.kr/combio/)**  
-  GIST (Gwangju Institute of Science and Technology) | **Summer 2025**
+  GIST (Gwangju Institute of Science and Technology) | **July 2025 - August 2025**
 
 ---
 
