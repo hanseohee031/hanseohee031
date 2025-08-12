@@ -54,6 +54,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyaenugu)](https://solved.ac/jyaenugu/)
 
 ---
+### Contact
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/jyaenugu)
+[![Email](https://img.shields.io/badge/Naver%20Mail-03C75A?logo=naver&logoColor=white)](mailto:jyaenugu@naver.com)
 
 
 
