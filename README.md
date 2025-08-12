@@ -8,7 +8,7 @@
 ---
 
 ### Research Interests
-> AI-based Adverse Drug Reaction Prediction
+> AI-based drug side effect prediction
 > 
 > Deep Learning / Machine Learning
 ---
