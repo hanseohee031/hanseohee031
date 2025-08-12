@@ -15,13 +15,13 @@
 
 ### Research Experience
 > **[AI Accelerator Computing Lab](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee)**  
-  Hallym University | **Jan 2023 – Dec 2023 / Apr 2025 – June 2025**
+  Hallym University | **Jan 2023 – Dec 2023**
 
 > **[AI-Powered Cheminformatics Laboratory](https://sites.google.com/view/hallym-apclab/home)**  
   Hallym University | **Mar 2025**
 
 > **[Data Mining & Computational Biology Lab](https://combio.gist.ac.kr/combio/)**  
-  GIST (Gwangju Institute of Science and Technology) | **July 2025 - August 2025**
+  GIST (Gwangju Institute of Science and Technology) | **June 2025 - Aug 2025**
 
 ---
 
