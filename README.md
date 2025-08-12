@@ -55,8 +55,11 @@
 
 ---
 ### Contact
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/jyaenugu)
-[![Email](https://img.shields.io/badge/Naver%20Mail-03C75A?logo=naver&logoColor=white)](mailto:jyaenugu@naver.com)
+> Instagram: [@jyaenugu](https://instagram.com/jyaenugu)  
+> Email: [jyaenugu@naver.com](mailto:jyaenugu@naver.com)
+
+
+
 
 
 
