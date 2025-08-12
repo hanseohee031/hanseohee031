@@ -3,7 +3,7 @@
 ### Department of Software, Hallym University
 > *Expected Graduation: February 2026*
 > 
-> 2026년 봄학기 GIST AI융합학과 (석사 과정) 입학 예정
+> 2026년 봄학기 GIST AI융합학과 (석사 과정) 입학 예정자
 
 ---
 
